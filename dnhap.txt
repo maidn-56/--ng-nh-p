@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body
+<html>
+<heat>
+<div class="login-form">
+                                <p class="login-form-tit">Ðang nh?p</p>
+                                <p class="linebt">Xin m?i dang nh?p </p>
+                                <div class="form">
+                                    <p><label>Tài khoản:</label></p>
+                                    <p><input name="u" id="u" value="" type="text" maxlength="24"></p>
+                                    <p><label>M?t kh?u :</label></p>
+                                    <p><input name="p" id="pp"  type="password" value="" maxlength="32"></p>
+                                    <p><label class="fl"><input name="longtime" id="remember"  type="checkbox" value="1"  class="checked checkBR"/> Ghi nh? dang nh?p</label>
+									 <div class="box-cor">
+                        <div class="netother" style="display:none;">
+                            <p>B?n có th? dang ký nhanh b?ng tài kho?n khác:</p>
+                            <p class="nettypes">
+                                <a class="net_yahoo" href="#">Yahoo</a>
+                                <a class="net_google" href="#">Google</a>
+                                <a class="net_facebook" href="#">Facebook</a>
+                            </p>
+                            <div class="clr"></div>
+                        </div>
+                                </div>
+
+                                <div class="btn_login"><input name="bntlogin" id="bntlogin" type="submit" value="" /></div>
+                                <div class="loginby">
+</div>
+</heat>
+</html>
+
+
+</body>
+</html>
